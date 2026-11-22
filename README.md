@@ -9,8 +9,8 @@ into useful insights, and I'm building my portfolio from scratch.
 - Python for data (pandas)
 - Git & GitHub
 
-## 🚀 Current project
-- E-commerce analysis with SQL + Python (coming soon)
+## 🚀 Project
+- [Olist E-commerce Analysis](https://github.com/ardan-utomo/olist-ecommerce-analysis): SQL analysis of ~99,000 orders (data quality, sales growth, Black Friday spike)
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/ardan-faizun-utomo-712572445
