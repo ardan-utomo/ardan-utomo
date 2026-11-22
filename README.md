@@ -13,7 +13,7 @@ into useful insights, and I'm building my portfolio from scratch.
 - [Olist E-commerce Analysis](https://github.com/ardan-utomo/olist-ecommerce-analysis): SQL analysis of ~99,000 orders (data quality, sales growth, Black Friday spike)
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/ardan-faizun-utomo-712572445
+- LinkedIn: www.linkedin.com/in/ardan-faizun-utomo
 
 <details>
 <summary>🇮🇩 Bahasa Indonesia</summary>
