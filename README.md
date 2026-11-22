@@ -1,4 +1,4 @@
-# Ardan-Faizun-Utomo
+# ardan-utomo
 # Hi, I'm Ardan Faizun Utomo 👋
 
 Information Technology student at Walisongo State Islamic University
